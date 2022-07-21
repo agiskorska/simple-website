@@ -4,7 +4,10 @@
 }
 
 #popup {
-    width: 100px;
-    height: 200px;
-    border: 1px solid blue;
+  width: 100px;
+  height: 200px;
+  border: 1px solid blue;
+}
+div {
+  color: pink;
 }
